@@ -1,0 +1,19 @@
+*{background-color: rgb(176, 222, 206);}
+.first-title {color:#313b78}
+.second-title {color:#313b78;margin-bottom:3rem;}
+.other-titles {color: #313b78;
+}
+.text-two{font-size: large;
+    color: rgb(102, 101, 100);
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;margin-bottom:3rem;}
+.text {font-size: large;
+    color: rgb(102, 101, 100);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    button{
+    padding: 20px;
+    background-color:coral;
+    font-size:2rem;
+    border-radius:5rem;
+    
+}
